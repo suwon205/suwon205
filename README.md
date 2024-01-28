@@ -13,6 +13,7 @@ Portfolio 페이지로 이동하기 <a href="https://suwon205.github.io/portfoli
 <h3>Language</h3>
 <p>
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/typescript-#3178C6?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/-python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSharp-512BD4?style=flat&logo=C#&logoColor=white"/>
   <img src="https://img.shields.io/badge/-dart-0175C2?style=flat&logo=dart&logoColor=white"/>
