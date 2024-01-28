@@ -6,9 +6,9 @@ Portfolio 페이지로 이동하기 <a href="https://suwon205.github.io/portfoli
 <h3>Framework & Library</h3>
 <p>
   <img src="https://img.shields.io/badge/-react-61DAFB?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-unity-000000?style=flat&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-unity-000000?style=flat&logo=unity&logoColor=white"/>
 </p>
 <h3>Language</h3>
 <p>
